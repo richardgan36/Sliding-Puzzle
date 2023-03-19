@@ -1,3 +1,7 @@
+"""
+Please excuse the barbarous coding practices used here. This script was started during my early days of learning programming.
+"""
+
 import pygame
 import random
 import copy
