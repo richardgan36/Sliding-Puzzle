@@ -13,7 +13,7 @@ The latter is achieved by making the animations smooth, designing clean visuals,
 
 ## How to Play
 
-All the controls and configurable settings are listed in the menu which can be accessed by pressing esc or by clicking the menu icon in the top right of the window.
+The objective is to move the tiles one at a time so that they are arranged in ascending order from top-left to bottom-right. All the controls and configurable settings are listed in the menu which can be accessed by pressing esc or by clicking the menu icon in the top right of the window.
 
 
 ## 3 by 3 Too Easy?
