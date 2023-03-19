@@ -10,6 +10,10 @@ The project was designed with one goal in mind: to be as intuitive and as satisf
 The former is achieved by building redundancy into the controls; for example, the tiles can be moved around using both the mouse and the arrow keys.
 The latter is achieved by making the animations smooth, designing clean visuals, and selecting euphonic sound effects.
 
+## Required External Libraries
+
+- pygame
+
 
 ## How to Play
 
