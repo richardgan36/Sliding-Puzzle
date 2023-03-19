@@ -3,7 +3,7 @@
 An implementation of the classic sliding puzzle game using PyGame.
 
 
-![alt text](https://github.com/richardgan36/SlidingPuzzle/blob/master/sliding_puzzle_screenshot.jpg)
+![alt text](https://github.com/richardgan36/SlidingPuzzle/blob/master/screenshots/sliding_puzzle_screenshot.jpg)
 
 
 The project was designed with one goal in mind: to be as intuitive and as satisfying to play as possible.
@@ -21,3 +21,4 @@ All the controls and configurable settings are listed in the menu which can be a
 Worry not! The puzzle size can be as big as you want (or as big as your computer can handle!). Just click the cog icon in the menu and change "Puzzle Size". Additionally, increase the difficulty by increasing "Scramble Number" - the number of tiles shifted from the solved configuration.
 
 
+![alt text](https://github.com/richardgan36/SlidingPuzzle/blob/master/screenshots/sliding_puzzle_screenshot_settings.jpg)
