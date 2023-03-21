@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/richardgan36/SlidingPuzzle)
-# Sliding-Puzzle
+# Sliding Puzzle
 
 
 An implementation of the classic sliding puzzle game using PyGame.
