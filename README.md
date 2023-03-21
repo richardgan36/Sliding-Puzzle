@@ -12,7 +12,7 @@ The latter is achieved by making the animations smooth, designing clean visuals,
 
 ## Required External Libraries
 
-- pygame
+- pygame 2.3.0
 
 
 ## How to Play
@@ -22,7 +22,7 @@ The objective is to move the tiles one at a time so that they are arranged in as
 
 ## 3 by 3 Too Easy?
 
-Worry not! The puzzle size can be as big as you want (or as big as your computer can handle!). Just click the cog icon in the menu and change "Puzzle Size". Additionally, increase the difficulty by increasing "Scramble Number" - the number of tiles shifted from the solved configuration.
+The puzzle size can be as big as you want (or as big as your computer can handle!). Just click the cog icon in the menu and change "Puzzle Size". Additionally, increase the difficulty by increasing "Scramble Number" - the number of tiles shifted from the solved configuration.
 
 
 ![alt text](https://github.com/richardgan36/SlidingPuzzle/blob/master/screenshots/sliding_puzzle_settings_screenshot.jpg)
